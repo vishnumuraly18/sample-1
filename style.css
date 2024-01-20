@@ -1,14 +1,42 @@
-body{
-    background-color: aqua;
+#d1{
+    background-color: rgb(255, 255, 255);
+    border-top: 10px rgb(15, 243, 15) solid;
+    border-left: 10px rgb(15, 243, 15) solid;
+    border-bottom: 10px rgb(58, 58, 255) solid;
+    border-right: 10px rgb(58, 58, 255) solid;
+ 
+ 
+   
 }
 h1{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    color: rgb(255, 0, 13);
+    text-align: center;
+    
+
 }
+h5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    color: rgb(235, 27, 141);
+    text-align: center;
+}
+h4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    color: rgb(252, 14, 14);
+    text-align: center;
+}
+
+span{
+    color: rgb(24, 243, 24);
+    text-align: center;
+    font-weight: bolder;
+}
+
 p{
-    color: coral;
-}
-h3{
-    font-size: medium;
-    color: beige;
+    font-family: sans-serif;
+    color: rgb(95, 45, 55);
+    text-align: center;
 }
